@@ -1,0 +1,12 @@
+.main-panel-view {
+    display: flex;
+    justify-content: flex-end;
+    gap: 15px;
+    min-height: 20%;
+}
+
+.page-pick-holder {
+    display: flex;
+    min-width: 40px;
+    width: 40px;
+}

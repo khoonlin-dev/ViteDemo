@@ -1,0 +1,19 @@
+.main-view,
+.view-header {
+    width: 90%;
+    margin: 15px;
+    padding: 15px;
+    color: black;
+}
+
+.main-view {
+    border: 1px solid gray;
+    background-color: white;
+}
+
+.view-header {
+    font-weight: bold;
+    text-align: left;
+    background-color: rgb(54, 54, 54);
+    color: white;
+}

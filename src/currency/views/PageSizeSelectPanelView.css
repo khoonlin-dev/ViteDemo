@@ -1,0 +1,12 @@
+.page-size-select {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    width: 15%;
+}
+
+.page-size-select-desc {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+}
